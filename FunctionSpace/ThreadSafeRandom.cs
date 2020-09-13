@@ -39,11 +39,9 @@ namespace FunctionSpace
         }
 
         /// <summary>
-        /// Creates a Random float under the normal distribution probability law (Laplace–Gauss)
+        /// Creates a Random double under an equi-distribution probability as P(x)=1/sum(x), x=[0,1]
         /// </summary>
-        /// <param name="mean">mean of the Gaussian curve (generaly 0)</param>
-        /// <param name="scale">scale parameter of the normal distribution (generaly x²=1)</param>
-        /// <returns>a normal random float</returns>
+        /// <returns>a random double between 0 and 1</returns>
         public static double Rand()
         {
             return ThisThreadsRandom.NextDouble();
