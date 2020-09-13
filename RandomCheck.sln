@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomCheck", "RandomCheck\RandomCheck.csproj", "{D1B54164-3EF6-4390-B431-746CF53371C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionSpace", "FunctionSpace\FunctionSpace.csproj", "{57BF6638-4071-402F-BA58-0397058FE615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B54164-3EF6-4390-B431-746CF53371C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B54164-3EF6-4390-B431-746CF53371C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B54164-3EF6-4390-B431-746CF53371C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B54164-3EF6-4390-B431-746CF53371C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57BF6638-4071-402F-BA58-0397058FE615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BF6638-4071-402F-BA58-0397058FE615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BF6638-4071-402F-BA58-0397058FE615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BF6638-4071-402F-BA58-0397058FE615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEE862F1-0210-405B-A45E-1DC97BFDAF45}
+	EndGlobalSection
+EndGlobal
